@@ -1,0 +1,1 @@
+java -jar ./target/comic-0.0.1-SNAPSHOT.jar
